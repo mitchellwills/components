@@ -641,9 +641,9 @@
   integrity sha512-QDmt/gw2fy04u61Lwur53OO3rcqDV2o5lNPRtZoP+/g5VnM7rBX/VV7cZQRisV0Hvh0nPbSL37yrlEY6gIOXDA==
 
 "@bazel/typescript@^2.2.0":
-  version "2.3.0"
-  resolved "https://registry.yarnpkg.com/@bazel/typescript/-/typescript-2.3.0.tgz#642c8049390c34d25de175788862b2a9cc156899"
-  integrity sha512-XsRzCbL3FDsZM1PDlEjTIJrZeXysuDFRLI3SflXhTOqZa5+2bmG/Eur1/y5zOdSz3JFNNxGYAUUm7VXHVrMZRA==
+  version "2.3.2"
+  resolved "https://registry.yarnpkg.com/@bazel/typescript/-/typescript-2.3.2.tgz#6d49cc064a9323905dcf791fe0e959f75ddf2ade"
+  integrity sha512-O2lZfVGx1Uyc7GzLMyD4uiu1qWxy7xviVTEDPzFGcqZsHMCXMV/fEgMoiD0cI4diHwSWrc7Gm/CG9j/z+SRDzA==
   dependencies:
     protobufjs "6.8.8"
     semver "5.6.0"
